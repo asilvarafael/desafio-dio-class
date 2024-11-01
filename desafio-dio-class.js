@@ -12,8 +12,6 @@ class heroi {
             ataque = "bola de fogo";
         } else if (this.tipo === "guerreiro") {
             ataque = "machado giratório";
-        } else if (this.tipo === "monge") {
-            ataque = "soco destuidor";
         } else if (this.tipo === "ninja") {
             ataque = "lâmina das sombras";
         } else {
